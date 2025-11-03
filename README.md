@@ -3,8 +3,7 @@
 </p>
 
 <div align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="status" />
+  <img src="https://img.shields.io/badge/Status-Em_desenvolvimento-orange.svg" alt="status" />
   <img src="https://img.shields.io/badge/Stack-HTML,CSS,JS,React,PHP,Python,Node-blue" alt="stack" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="license" />
   <img src="https://img.shields.io/badge/Author-Luiz-ff69b4.svg" alt="author" />
@@ -14,44 +13,54 @@
 
 ## 🧩 Tecnologias & Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), **React.js (Vite / SPA / Hooks)**
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), **React.js (Vite / Hooks / SPA)**
 - **Backend:** Node.js (Express), PHP, Python (Flask / Scripts)
-- **Ferramentas / Automação:** OpenBullet *(uso autorizado apenas — ver DISCLAIMER)*
+- **Ferramentas / Automação:** OpenBullet *(uso ético e autorizado apenas — ver disclaimer)*
 - **Proxy & Interceptação:** **Burp Suite**, **Charles Proxy**
-- **Segurança / Labs:** HTB (Hack The Box) — pentest labs, CTFs, e writeups
+- **Segurança / Labs:** HTB (Hack The Box) — laboratórios, writeups e análise de vulnerabilidades
 - **HTTP / APIs:** axios, fetch, requests
-- **Estilo / UI:** CSS Modules, Flexbox, Grid, Animações suaves
+- **Estilo / UI:** CSS Modules, Flexbox, Grid, animações suaves e design responsivo
 
 ---
 
-## 🚀 O que tem aqui
+## 🧭 O que haverá aqui futuramente
 
-📁 Estrutura organizada com exemplos e utilitários para desenvolvimento e segurança:
+Este repositório está sendo desenvolvido para se tornar um **ambiente completo de estudo e aplicação prática** em **desenvolvimento fullstack e segurança ofensiva**.  
+Abaixo está o **roadmap técnico planejado**:
 
-- `frontend/` — **React + CSS Modules** (login animado, dashboard, redirecionamento suave)  
-- `backend/` — **Node/Express API** (auth, rotas seguras, JWT, cookies HttpOnly)  
-- `tools/` — scripts de automação e testes em **Python** e **Node.js**  
-- `pentest-notes/` — anotações, writeups e metodologias HTB  
-- `openbullet/` — configs de automação **apenas** para fins educacionais / ambientes controlados
+### 🔹 Curto prazo (Em andamento)
+- Integração completa entre **frontend React** e **API Node.js (Express)**  
+- Sistema de autenticação com **JWT e cookies seguros (HttpOnly)**  
+- Layout responsivo com **temas escuros/claro e transições suaves**  
+- Módulo de login animado com feedback visual e modal de progresso  
+
+### 🔹 Médio prazo (Próximas versões)
+- Painel **Dashboard interativo** com estatísticas em tempo real  
+- Implementação de **hooks personalizados** e controle de sessão  
+- Criação de uma **documentação interativa da API (Swagger / Postman)**  
+- Scripts auxiliares em **Python e Node.js** para automação e análise de requests  
+
+### 🔹 Longo prazo (Roadmap avançado)
+- Ambiente de **testes controlados** para estudo de segurança web  
+- Integração com **Burp Suite e Charles Proxy** para análise de tráfego simulada  
+- Ferramentas auxiliares de **auditoria, payload testing e proxy reverso educativo**  
+- Publicação de **writeups e estudos HTB** com foco em aprendizado ético e técnico  
 
 ---
 
 ## 🧠 Projetos & Estudos
 
-- **React Hub Login** — Login moderno com feedback visual, animações e redirect suave  
-- **Burp Suite & Charles** — Interceptação e análise de tráfego em ambientes de teste  
-- **HTB Writeups** — notas, táticas e scripts para CTFs e laboratórios  
-- **Node Tools** — endpoints para autenticação e exemplos de middlewares
+- **React Hub Login** — login moderno com feedback e redirect suave  
+- **Burp Suite & Charles Proxy** — estudo de interceptação e análise de pacotes  
+- **HTB Writeups** — práticas, exploits controlados e automação de desafios  
+- **Node Tools** — middlewares, JWT e módulos utilitários  
 
 ---
 
 ## 🔐 DISCLAIMER — Uso Ético e Legal
 
-Este repositório contém material educativo para **fins de aprendizado e pesquisa em segurança**.  
-O uso de qualquer ferramenta aqui (Burp, OpenBullet, Charles, etc.) **deve ser feito exclusivamente em ambientes sob seu controle ou com autorização explícita**.
+Este repositório tem **finalidade educacional** e é destinado ao **aprendizado técnico em desenvolvimento e segurança**.  
+Qualquer uso das ferramentas (Burp, OpenBullet, Charles, etc.) **deve ocorrer apenas em ambientes sob sua responsabilidade ou com autorização explícita**.
 
-🚫 O uso indevido destas ferramentas é ilegal e pode violar leis locais e políticas de privacidade.  
-⚖️ **Use com responsabilidade, ética e profissionalismo.**
-
----e .env   # preencha as variáveis
-npm run dev
+🚫 O uso indevido destas ferramentas é ilegal e pode resultar em sanções legais.  
+⚖️ **A ética é parte fundamental do aprendizado técnico.**
