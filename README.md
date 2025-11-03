@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=👋+Bem-vindo+ao+meu+repositório!;⚡+NOME_DO_PROJETO;🛠️+Fullstack+&+Pentest+Toolkit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=700&lines=👋+Bem-vindo+ao+meu+repositório!;🛠️+Fullstack+&+Pentest+Toolkit" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="status" />
   <img src="https://img.shields.io/badge/Stack-HTML,CSS,JS,PHP,Py,Node-blue" alt="stack" />
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="license" />
-  <img src="https://img.shields.io/badge/Author-SEU_NOME-ff69b4.svg" alt="author" />
+  <img src="https://img.shields.io/badge/Author-Luiz-ff69b4.svg" alt="author" />
 </div>
 ---
 
